@@ -1,0 +1,93 @@
+Phytogenic Cobalt Nanoparticles from Cyperus scariosus
+
+📄 Original Research Publication
+
+Title: Phytogenic cobalt nanoparticles from Cyperus scariosus: a promising antibacterial and antioxidant nanotherapeutic platform and as a photocatalytic agent
+
+Journal: International Journal of Phytoremediation
+Publisher: Taylor & Francis
+Publication Date: 9 September 2026
+DOI: 10.1080/15226514.2026.2725000
+
+🔗 Read the Original Research Paper:
+https://www.tandfonline.com/doi/full/10.1080/15226514.2026.2725000
+
+🔬 Research Overview
+
+This study investigates the green synthesis of cobalt nanoparticles (CoNPs) using Cyperus scariosus root extract and evaluates their photocatalytic, antibacterial, and antioxidant properties.
+
+🧪 Key Research Areas
+
+Green Nanotechnology: Plant-mediated synthesis of cobalt nanoparticles.
+
+Photocatalysis: Investigation of organic dye degradation using synthesized nanoparticles.
+
+Antibacterial Activity: Evaluation of antibacterial properties against selected bacterial strains.
+
+Antioxidant Activity: Assessment of antioxidant potential using laboratory assays.
+
+Nanomaterial Characterization: Analysis using UV–Vis spectroscopy, X-ray diffraction (XRD), transmission electron microscopy (TEM), and energy-dispersive X-ray spectroscopy (EDX).
+
+📊 Selected Findings
+
+According to the published study:
+
+Dye degradation: 98% degradation of methylene blue within 40 minutes under UV light.
+
+Crystallite size: Approximately 18.9 nm, as estimated by XRD.
+
+Antioxidant activity: DPPH assay IC₅₀ reported as 12.6 µg/mL.
+
+Biological evaluation: Antibacterial activity was assessed against selected bacterial strains.
+
+These findings are reported results from the original study and should be interpreted in the context of its experimental methods.
+
+🎯 Purpose of This Repository
+
+This repository provides an academic reference to the original research paper and highlights its major research themes for educational purposes.
+
+It is intended to support learning about:
+
+Green synthesis of nanomaterials
+
+Environmental photocatalysis
+
+Nanotechnology and biological research
+
+Antioxidant and antibacterial assays
+
+Sustainable scientific innovation
+
+👥 Original Authors
+
+Maria Kanwal
+
+Muhammad Sher
+
+Arooj Fatima
+
+Sher Ullah
+
+Azhar Abbas
+
+Amal Alotaibi
+
+Riaz Ullah
+
+Please consult the original publisher page for author affiliations and contribution details.
+
+🔗 Citation and Source
+
+DOI: https://doi.org/10.1080/15226514.2026.2725000
+
+Publisher: Taylor & Francis — International Journal of Phytoremediation
+
+⚖️ Copyright and Attribution
+
+The original research belongs to its respective authors and publisher. This repository is intended for academic reference and learning and does not claim ownership or authorship of the publication.
+
+Please check the publisher's licence before redistributing the full paper, figures, or other copyrighted material.
+
+Research • Green Nanotechnology • Environmental Applications
+
+Disclaimer: This repository summarizes selected information from the original publication. Please consult the published paper for complete methods, results, limitations, and conclusions.
